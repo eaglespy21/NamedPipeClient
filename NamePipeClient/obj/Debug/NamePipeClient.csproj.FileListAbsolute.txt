@@ -1,0 +1,6 @@
+C:\Users\saurabh\Documents\GitHub\NamePipeClient\NamePipeClient\bin\Debug\NamePipeClient.exe.config
+C:\Users\saurabh\Documents\GitHub\NamePipeClient\NamePipeClient\bin\Debug\NamePipeClient.exe
+C:\Users\saurabh\Documents\GitHub\NamePipeClient\NamePipeClient\bin\Debug\NamePipeClient.pdb
+C:\Users\saurabh\Documents\GitHub\NamePipeClient\NamePipeClient\obj\Debug\NamePipeClient.csprojResolveAssemblyReference.cache
+C:\Users\saurabh\Documents\GitHub\NamePipeClient\NamePipeClient\obj\Debug\NamePipeClient.exe
+C:\Users\saurabh\Documents\GitHub\NamePipeClient\NamePipeClient\obj\Debug\NamePipeClient.pdb
